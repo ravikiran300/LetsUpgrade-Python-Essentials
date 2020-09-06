@@ -154,7 +154,7 @@ The syntax of copy() is:
 
 dict.copy()
 
-copy() method doesn't take any parameters.
+copy() method doesn't take any parameters
 
 This method returns a shallow copy of the dictionary. It doesn't modify the original dictionary.
 
